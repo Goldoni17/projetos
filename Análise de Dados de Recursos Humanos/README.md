@@ -1,3 +1,3 @@
 # Análise de Dados de Recursos Humanos 
 
-Este projeto usa Python, Pandas e Numpy e Matplotlib para analisar dados de funcionários que fizeram treinamento na empresa, e encontrar padrões e tendências com isso.
+Este projeto utiliza Pandas, Numpy e Matplotlib para analisar dados de funcionários que fizeram treinamento da empresa com objetivo de identificar encontrar padrões e tendências baseados em uma váriavel alvo.
