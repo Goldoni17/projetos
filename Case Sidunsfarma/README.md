@@ -1,0 +1,1 @@
+This project describes the practices of companies as a whole in relation to Home Office and Short Friday to generate a descriptive analysis and, thus, provide an overview of how this subject is treated in the pharmaceutical sector.
