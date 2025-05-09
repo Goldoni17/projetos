@@ -1,0 +1,1 @@
+This project uses Pandas, Numpy and Matplotlib to analyze data from employees who have completed company training in order to identify patterns and trends based on a target variable.
