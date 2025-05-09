@@ -1,0 +1,1 @@
+This project uses Python to analyze data from a telecommunications company to practice data cleaning strategies.
