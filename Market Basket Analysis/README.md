@@ -1,0 +1,1 @@
+This project utilizes Python packages to perform Exploratory Data Analysis and implement a Market Basket Analysis algorithm.
