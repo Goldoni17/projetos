@@ -1,1 +1,0 @@
-This project uses SQL language directly through Python to provide status of diabetes patients based on BMI.
