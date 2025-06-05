@@ -1,1 +1,0 @@
-This project utilizes Python web scraping libraries such as BeautifulSoup and Requests to perform data analysis on an anime website.
