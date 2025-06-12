@@ -1,0 +1,1 @@
+This project uses python to analyze data from a data lake created in mongoDB.
