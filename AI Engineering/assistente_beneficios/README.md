@@ -1,6 +1,3 @@
-<img width="989" alt="image" src="https://github.com/user-attachments/assets/c140d5f9-a165-44d0-80b9-592fdbf16e03" />
-
-
 # Assistente de benefícios de cartões
 
 ## ⚙️ Guia de Configuração
