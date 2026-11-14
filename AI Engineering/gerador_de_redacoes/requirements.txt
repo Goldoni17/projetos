@@ -1,0 +1,8 @@
+langchain-google-genai
+langchain-core
+python-dotenv
+pydantic
+tavily-python
+langgraph
+langgraph-checkpoint-sqlite
+gradio>=6
